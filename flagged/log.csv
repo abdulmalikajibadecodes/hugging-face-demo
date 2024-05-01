@@ -1,0 +1,75 @@
+prompt,output,flag,username,timestamp
+"Overview
+Most well tests consist of changing the rate, and observing the change in pressure caused by this change in rate. To perform a well test successfully one must be able to measure the time, the rate, the pressure, and control the rate. Well tests, if properly designed, can be used to estimate the following parameters:
+
+Flow conductance
+Skin factor
+Non-Darcy coefficient (multirate tests)
+Storativity
+Fractured reservoir parameters
+Fractured well parameters
+Drainage area
+Distance to faults
+Drainage shape
+History
+Purpose
+Exploration wells
+Fluid sampling (Primary reason)
+Measuring the initial pressure
+Estimating a minimum reservoir volume
+Evaluating the well permeability and skin effect
+Identifying heterogeneities and boundaries.
+Producing wells
+Verifying permeability and skin effect
+Identifying fluid behavior
+Estimating the average reservoir pressure
+Confirming heterogeneities and boundaries
+Assessing hydraulic connectivity.
+Change in rate
+Types
+Flow test
+A Flow test is an operation on a well designed to demonstrate the existence of moveable petroleum in a reservoir by establishing flow to the surface and/or to provide an indication of the potential productivity of that reservoir. Some flow tests, such as drill stem tests (DSTs), are performed in the open hole. A DST is used to obtain reservoir fluid samples, static bottomhole pressure measurements, indications of productivity and short-term flow and pressure buildup tests to estimate permeability and damage extent. Other flow tests, such as single-point tests and multi-point tests, are performed after the well has been cased. Single-point tests typically involve a measurement or estimate of initial or average reservoir pressure and a flow rate and flowing bottomhole pressure measurement. Multi-point tests are used to establish gas well deliverability and absolute open flow potential
+
+RFT
+To check pressure equilibrium and thus homogeneity wells can be tested using wireline-conveyed tools, either in casing or open-hole. These tools include RFT, MDT, etc. and are typically run to the desired depth before actuating levers or other devices seal them against the side of the wellbore.
+
+Drill-Stem test
+In newly developed reservoirs or high-risk developments it may be worthwhile to test the well before completing it or installing full production facilities. This is usually done with a drilling rig on-site, and the string through which the well is produced is manipulated by the drilling rig.
+
+Drawdown test
+A drawdown test is one in which the rate is held approximately constant while the well pressure is measured. Shut in the well till pressure reaches static level and then flowing the well at a constant rate ,q & measuring Pwf.
+
+Advantages
+Suitable in new wells. With No need to lose production, reservoir size can be determined.
+Disadvantages
+Difficult to maintain constant production rate. Long shut in so that Pi is achieved is required.
+Multirate tests
+Accounts for variable rate history and applications.
+
+Rate variations
+kh product, Pr
+Boundary configurations
+Skin
+FE
+PI
+Advantages
+No problems with variable flow rate, no loss of production, and reduced wellbore storage.
+Disadvantages
+Rate fluctuations are difficult to measure on a continuous basis.
+Production test
+A production test is just like a drawdown test, except that it is generally run for a longer period of time.
+
+Buildup test
+This is the most preferred well testing technique. The well is first produced at a constant rate till pressure is stabilized and then the well is shut in. Pressure is recorded as a function of time.
+
+Advantages
+Precise control of rate and P* can be determined.
+Disadvantages
+Loss of production due to shut in.
+Banker’s Test
+This is a productivity test to demonstrate that adequate rates can be obtained from the well.
+
+Interference test
+This test is designed to give large-scale reservoir property trends which can give improved estimates of directional permeability and reservoir storativity.
+
+Functions","well tests consist of changing the rate, and observing the change in pressure caused by this change in rate . well tests can be used to estimate the following parameters: Flow conductance Skin factor Non-Darcy coefficient (multirate tests) Storativity Fractured reservoir parameters Fracture well parameters Drainage area Distance to faults Drainage shape History Purpose Exploration wells Fluid sampling (Primary reason)",,,2024-05-01 10:53:55.866482
