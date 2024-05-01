@@ -1,0 +1,29 @@
+# basic worflow with github actions 
+name: CI 
+# controls when workflow will run 
+on:
+# Triggers the workflow on push or pull request events but only for the main branch 
+  push:
+    branches: [ main ]
+  pull_request: 
+    branches: [ main ]
+  #Allows yo to run this workflow manually from Actions tab 
+  workflow_dispatch:
+
+jobs: 
+  sync-to-hub:
+  runs-on: unbuntu-latest
+  steps:
+  - uses: action/checkout@v2
+    with:
+      fetch-depth: 0
+  - name: Add remote
+    env:
+      HF: ${{ secrets.HF }}
+      run: git remote add space https://huggingface.co/spaces/abdulmalikajibade/demo2
+  - name: Push to hub
+    env:
+      HF: ${{ secrets.HF }}
+    run: git push --force https://huggingface.co/spaces/abdulmalikajibade/demo2 main
+    
+
